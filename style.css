@@ -1,0 +1,57 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+.container{
+    background-color: gray;
+    height: 550px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.texto2{ 
+
+    margin-top: 20px;
+}
+
+.texto3{
+    margin-top: 20px;
+}
+
+button{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+}
+
+.whitebox{
+    margin-top: 20px;
+    background-color: cyan;
+    height: 150px;
+    width: 275px;
+    color: transparent;
+}
